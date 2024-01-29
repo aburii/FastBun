@@ -1,5 +1,5 @@
 {
-  "name": "FastBun",
+  "name": "fastbun",
   "private": true,
   "scripts": {
     "build": "turbo build",
